@@ -1,0 +1,3229 @@
+fileFormatVersion: 2
+guid: 573b1e72a57cfc845b62f12931f46bc6
+timeCreated: 1486551600
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Barbar_0
+    21300002: Barbar_1
+    21300004: Barbar_2
+    21300006: Barbar_3
+    21300008: Barbar_4
+    21300010: Barbar_5
+    21300012: Barbar_6
+    21300014: Barbar_7
+    21300016: Barbar_8
+    21300018: Barbar_9
+    21300020: Barbar_10
+    21300022: Barbar_11
+    21300024: Barbar_12
+    21300026: Barbar_13
+    21300028: Barbar_14
+    21300030: Barbar_15
+    21300032: Barbar_16
+    21300034: Barbar_17
+    21300036: Barbar_18
+    21300038: Barbar_19
+    21300040: Barbar_20
+    21300042: Barbar_21
+    21300044: Barbar_22
+    21300046: Barbar_23
+    21300048: Barbar_24
+    21300050: Barbar_25
+    21300052: Barbar_26
+    21300054: Barbar_27
+    21300056: Barbar_28
+    21300058: Barbar_29
+    21300060: Barbar_30
+    21300062: Barbar_31
+    21300064: Barbar_32
+    21300066: Barbar_33
+    21300068: Barbar_34
+    21300070: Barbar_35
+    21300072: Barbar_36
+    21300074: Barbar_37
+    21300076: Barbar_38
+    21300078: Barbar_39
+    21300080: Barbar_40
+    21300082: Barbar_41
+    21300084: Barbar_42
+    21300086: Barbar_43
+    21300088: Barbar_44
+    21300090: Barbar_45
+    21300092: Barbar_46
+    21300094: Barbar_47
+    21300096: Barbar_48
+    21300098: Barbar_49
+    21300100: Barbar_50
+    21300102: Barbar_51
+    21300104: Barbar_52
+    21300106: Barbar_53
+    21300108: Barbar_54
+    21300110: Barbar_55
+    21300112: Barbar_56
+    21300114: Barbar_57
+    21300116: Barbar_58
+    21300118: Barbar_59
+    21300120: Barbar_60
+    21300122: Barbar_61
+    21300124: Barbar_62
+    21300126: Barbar_63
+    21300128: Barbar_64
+    21300130: Barbar_65
+    21300132: Barbar_66
+    21300134: Barbar_67
+    21300136: Barbar_68
+    21300138: Barbar_69
+    21300140: Barbar_70
+    21300142: Barbar_71
+    21300144: Barbar_72
+    21300146: Barbar_73
+    21300148: Barbar_74
+    21300150: Barbar_75
+    21300152: Barbar_76
+    21300154: Barbar_77
+    21300156: Barbar_78
+    21300158: Barbar_79
+    21300160: Barbar_80
+    21300162: Barbar_81
+    21300164: Barbar_82
+    21300166: Barbar_83
+    21300168: Barbar_84
+    21300170: Barbar_85
+    21300172: Barbar_86
+    21300174: Barbar_87
+    21300176: Barbar_88
+    21300178: Barbar_89
+    21300180: Barbar_90
+    21300182: Barbar_91
+    21300184: Barbar_92
+    21300186: Barbar_93
+    21300188: Barbar_94
+    21300190: Barbar_95
+    21300192: Barbar_96
+    21300194: Barbar_97
+    21300196: Barbar_98
+    21300198: Barbar_99
+    21300200: Barbar_100
+    21300202: Barbar_101
+    21300204: Barbar_102
+    21300206: Barbar_103
+    21300208: Barbar_104
+    21300210: Barbar_105
+    21300212: Barbar_106
+    21300214: Barbar_107
+    21300216: Barbar_108
+    21300218: Barbar_109
+    21300220: Barbar_110
+    21300222: Barbar_111
+    21300224: Barbar_112
+    21300226: Barbar_113
+    21300228: Barbar_114
+    21300230: Barbar_115
+    21300232: Barbar_116
+    21300234: Barbar_117
+    21300236: Barbar_118
+    21300238: Barbar_119
+    21300240: Barbar_120
+    21300242: Barbar_121
+    21300244: Barbar_122
+    21300246: Barbar_123
+    21300248: Barbar_124
+    21300250: Barbar_125
+    21300252: Barbar_126
+    21300254: Barbar_127
+    21300256: Barbar_128
+    21300258: Barbar_129
+    21300260: Barbar_130
+    21300262: Barbar_131
+    21300264: Barbar_132
+    21300266: Barbar_133
+    21300268: Barbar_134
+    21300270: Barbar_135
+    21300272: Barbar_136
+    21300274: Barbar_137
+    21300276: Barbar_138
+    21300278: Barbar_139
+    21300280: Barbar_140
+    21300282: Barbar_141
+    21300284: Barbar_142
+    21300286: Barbar_143
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -5
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Barbar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 18.25}
+        - {x: -17, y: 7.25}
+        - {x: -23, y: -13.75}
+        - {x: -16, y: -14.75}
+        - {x: -14, y: -14.75}
+        - {x: -20, y: -14.75}
+        - {x: -23, y: -17.75}
+        - {x: -24, y: -19.75}
+        - {x: -24, y: -35.75}
+        - {x: -16, y: -39.75}
+        - {x: 8, y: -39.75}
+        - {x: 20, y: -32.75}
+        - {x: 20, y: 8.25}
+        - {x: 2, y: 18.25}
+    - name: Barbar_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.75, y: 20.25}
+        - {x: -21.75, y: 0.25}
+        - {x: -21.75, y: -33.75}
+        - {x: -16.75, y: -38.75}
+        - {x: 1.25, y: -38.75}
+        - {x: 27.25, y: -27.75}
+        - {x: 27.25, y: 11.25}
+        - {x: 21.25, y: 20.25}
+    - name: Barbar_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 31.25}
+        - {x: 17, y: 25.25}
+        - {x: 5, y: 27.25}
+        - {x: -7, y: 26.25}
+        - {x: -23, y: -17.75}
+        - {x: -23, y: -39.75}
+        - {x: -1, y: -39.75}
+        - {x: 20, y: -32.75}
+        - {x: 28, y: -6.75}
+        - {x: 28, y: 30.25}
+        - {x: 27, y: 31.25}
+    - name: Barbar_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.25, y: 28.25}
+        - {x: -4.75, y: 28.25}
+        - {x: -26.75, y: -7.75}
+        - {x: -26.75, y: -35.75}
+        - {x: -23.75, y: -36.75}
+        - {x: -12.75, y: -36.75}
+        - {x: 13.25, y: -22.75}
+        - {x: 24.25, y: -0.75}
+        - {x: 24.25, y: 18.25}
+    - name: Barbar_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35.25}
+        - {x: -22, y: -0.75}
+        - {x: -22, y: -8.75}
+        - {x: -17, y: -13.75}
+        - {x: -15, y: -13.75}
+        - {x: -17, y: -13.75}
+        - {x: -25, y: -14.75}
+        - {x: -27, y: -18.75}
+        - {x: -27, y: -24.75}
+        - {x: -20, y: -32.75}
+        - {x: -3, y: -32.75}
+        - {x: 15, y: -23.75}
+        - {x: 26, y: -3.75}
+        - {x: 26, y: 35.25}
+    - name: Barbar_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.25, y: 26.25}
+        - {x: -7.75, y: 18.25}
+        - {x: -19.75, y: -1.75}
+        - {x: -19.75, y: -5.75}
+        - {x: -23.75, y: -5.75}
+        - {x: -23.75, y: -36.75}
+        - {x: 16.25, y: -36.75}
+        - {x: 29.25, y: -13.75}
+        - {x: 33.25, y: 1.25}
+        - {x: 33.25, y: 26.25}
+    - name: Barbar_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 11.25}
+        - {x: -13, y: 11.25}
+        - {x: -23, y: 5.25}
+        - {x: -33, y: -15.75}
+        - {x: -33, y: -49.75}
+        - {x: -24, y: -56.75}
+        - {x: -2, y: -56.75}
+        - {x: 13, y: -29.75}
+        - {x: 13, y: -3.75}
+        - {x: 4, y: 9.25}
+    - name: Barbar_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.75, y: 11.25}
+        - {x: -30.75, y: -12.75}
+        - {x: -30.75, y: -43.75}
+        - {x: -20.75, y: -56.75}
+        - {x: -1.75, y: -56.75}
+        - {x: 12.25, y: -27.75}
+        - {x: 12.25, y: 1.25}
+        - {x: -2.75, y: 11.25}
+    - name: Barbar_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 8}
+        - {x: -23, y: -7}
+        - {x: -17, y: -10}
+        - {x: -14, y: -10}
+        - {x: -22, y: -10}
+        - {x: -26, y: -13}
+        - {x: -26, y: -38}
+        - {x: -21, y: -50}
+        - {x: -20, y: -51}
+        - {x: 0, y: -51}
+        - {x: 13, y: -39}
+        - {x: 13, y: -1}
+        - {x: 6, y: 8}
+    - name: Barbar_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.75, y: 14}
+        - {x: -20.75, y: -2}
+        - {x: -18.75, y: -10}
+        - {x: -14.75, y: -14}
+        - {x: -11.75, y: -14}
+        - {x: -17.75, y: -14}
+        - {x: -22.75, y: -16}
+        - {x: -22.75, y: -36}
+        - {x: -17.75, y: -44}
+        - {x: -1.75, y: -44}
+        - {x: 14.25, y: -42}
+        - {x: 19.25, y: -27}
+        - {x: 19.25, y: 4}
+        - {x: 5.25, y: 14}
+    - name: Barbar_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 17}
+        - {x: -12, y: 17}
+        - {x: -16, y: 13}
+        - {x: -28, y: -20}
+        - {x: -28, y: -35}
+        - {x: -22, y: -36}
+        - {x: -6, y: -37}
+        - {x: 4, y: -37}
+        - {x: 10, y: -31}
+        - {x: 15, y: -21}
+        - {x: 15, y: 6}
+    - name: Barbar_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.75, y: 18}
+        - {x: -25.75, y: 8}
+        - {x: -25.75, y: -38}
+        - {x: -24.75, y: -40}
+        - {x: 12.25, y: -40}
+        - {x: 19.25, y: -31}
+        - {x: 19.25, y: 1}
+        - {x: 13.25, y: 18}
+    - name: Barbar_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 21}
+        - {x: -29, y: 2}
+        - {x: -26, y: -4}
+        - {x: -33, y: -17}
+        - {x: -33, y: -31}
+        - {x: -32, y: -32}
+        - {x: 15, y: -32}
+        - {x: 27, y: -31}
+        - {x: 35, y: -16}
+        - {x: 35, y: 21}
+    - name: Barbar_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.75, y: 19}
+        - {x: -27.75, y: 5}
+        - {x: -22.75, y: -4}
+        - {x: -16.75, y: -4}
+        - {x: -31.75, y: -18}
+        - {x: -31.75, y: -33}
+        - {x: 28.25, y: -33}
+        - {x: 35.25, y: -4}
+        - {x: 35.25, y: 19}
+    - name: Barbar_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 19}
+        - {x: -23, y: -31}
+        - {x: -11, y: -37}
+        - {x: 17, y: -37}
+        - {x: 33, y: -19}
+        - {x: 37, y: -8}
+        - {x: 37, y: 19}
+      - - {x: -15, y: 55}
+        - {x: -15, y: 57}
+        - {x: -20, y: 57}
+        - {x: -18, y: 54}
+    - name: Barbar_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2048
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.75, y: 15}
+        - {x: -26.75, y: 5}
+        - {x: -26.75, y: -37}
+        - {x: -25.75, y: -39}
+        - {x: -17.75, y: -45}
+        - {x: 9.25, y: -45}
+        - {x: 18.25, y: -42}
+        - {x: 29.25, y: -18}
+        - {x: 29.25, y: 15}
+    - name: Barbar_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 14.25}
+        - {x: -32, y: 14.25}
+        - {x: -51, y: -32.75}
+        - {x: -51, y: -43.75}
+        - {x: -21, y: -43.75}
+        - {x: 5, y: -35.75}
+        - {x: 10, y: -24.75}
+        - {x: 12, y: -14.75}
+        - {x: 12, y: 9.25}
+    - name: Barbar_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.75, y: 13.25}
+        - {x: -35.75, y: 11.25}
+        - {x: -46.75, y: -20.75}
+        - {x: -46.75, y: -42.75}
+        - {x: -24.75, y: -42.75}
+        - {x: 6.25, y: -33.75}
+        - {x: 10.25, y: -27.75}
+        - {x: 10.25, y: 4.25}
+        - {x: 7.25, y: 13.25}
+    - name: Barbar_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 13.25}
+        - {x: -40, y: -5.75}
+        - {x: -40, y: -35.75}
+        - {x: -37, y: -38.75}
+        - {x: -4, y: -38.75}
+        - {x: 10, y: -29.75}
+        - {x: 10, y: -2.75}
+        - {x: 6, y: 13.25}
+    - name: Barbar_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.25, y: 15.25}
+        - {x: -10.75, y: 15.25}
+        - {x: -13.75, y: 12.25}
+        - {x: -16.75, y: 2.25}
+        - {x: -22.75, y: -3.75}
+        - {x: -31.75, y: -20.75}
+        - {x: -31.75, y: -33.75}
+        - {x: -29.75, y: -36.75}
+        - {x: 4.25, y: -36.75}
+        - {x: 12.25, y: -18.75}
+        - {x: 12.25, y: 0.25}
+        - {x: 5.25, y: 14.25}
+    - name: Barbar_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.25}
+        - {x: -31, y: 11.25}
+        - {x: -31, y: -15.75}
+        - {x: -30, y: -21.75}
+        - {x: -22, y: -35.75}
+        - {x: 1, y: -35.75}
+        - {x: 4, y: -34.75}
+        - {x: 8, y: -23.75}
+        - {x: 8, y: 10.25}
+        - {x: 7, y: 18.25}
+    - name: Barbar_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.75, y: 16.25}
+        - {x: -22.75, y: 7.25}
+        - {x: -28.75, y: -14.75}
+        - {x: -28.75, y: -34.75}
+        - {x: -23.75, y: -41.75}
+        - {x: 0.25, y: -41.75}
+        - {x: 9.25, y: -30.75}
+        - {x: 9.25, y: 16.25}
+    - name: Barbar_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 15.25}
+        - {x: -30, y: -1.75}
+        - {x: -30, y: -22.75}
+        - {x: -6, y: -34.75}
+        - {x: -3, y: -34.75}
+        - {x: 7, y: -44.75}
+        - {x: 15, y: -44.75}
+        - {x: 26, y: -15.75}
+        - {x: 26, y: 0.25}
+        - {x: 17, y: 15.25}
+    - name: Barbar_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.25, y: -10.75}
+        - {x: 42.25, y: -3.75}
+        - {x: 14.25, y: 14.25}
+        - {x: 3.25, y: 18.25}
+        - {x: -26.75, y: 18.25}
+        - {x: -26.75, y: -32.75}
+        - {x: -11.75, y: -39.75}
+        - {x: 30.25, y: -39.75}
+        - {x: 38.25, y: -20.75}
+        - {x: 34.25, y: -19.75}
+        - {x: 26.25, y: -20.75}
+    - name: Barbar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 18}
+        - {x: -10, y: 18}
+        - {x: -22, y: -4}
+        - {x: -22, y: -34}
+        - {x: -15, y: -44}
+        - {x: 34, y: -44}
+        - {x: 34, y: 5}
+        - {x: 9, y: 16}
+    - name: Barbar_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.75, y: 20}
+        - {x: -15.75, y: 18}
+        - {x: -16.75, y: 3}
+        - {x: -25.75, y: -18}
+        - {x: -26.75, y: -21}
+        - {x: -26.75, y: -40}
+        - {x: -19.75, y: -51}
+        - {x: 2.25, y: -51}
+        - {x: 11.25, y: -20}
+        - {x: 11.25, y: 11}
+        - {x: -1.75, y: 20}
+    - name: Barbar_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 25}
+        - {x: -56, y: -16}
+        - {x: -30, y: -28}
+        - {x: 6, y: -28}
+        - {x: 20, y: -17}
+        - {x: 20, y: 6}
+        - {x: -7, y: 25}
+    - name: Barbar_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.75, y: 25}
+        - {x: -46.75, y: 18}
+        - {x: -52.75, y: -4}
+        - {x: -52.75, y: -23}
+        - {x: -27.75, y: -28}
+        - {x: 8.25, y: -28}
+        - {x: 16.25, y: -20}
+        - {x: 16.25, y: 14}
+        - {x: -11.75, y: 25}
+    - name: Barbar_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 21}
+        - {x: -43, y: 14}
+        - {x: -44, y: 11}
+        - {x: -44, y: -22}
+        - {x: -38, y: -31}
+        - {x: -1, y: -31}
+        - {x: 11, y: -26}
+        - {x: 11, y: 11}
+        - {x: -3, y: 21}
+    - name: Barbar_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.75, y: 18}
+        - {x: -33.75, y: 12}
+        - {x: -33.75, y: -29}
+        - {x: -22.75, y: -34}
+        - {x: 5.25, y: -34}
+        - {x: 8.25, y: -28}
+        - {x: 8.25, y: 18}
+    - name: Barbar_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 20}
+        - {x: -13, y: 20}
+        - {x: -25, y: -6}
+        - {x: -25, y: -27}
+        - {x: -22, y: -33}
+        - {x: -12, y: -33}
+        - {x: 13, y: -17}
+        - {x: 14, y: 1}
+        - {x: 14, y: 6}
+    - name: Barbar_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.75, y: 18}
+        - {x: -21.75, y: 13}
+        - {x: -29.75, y: -14}
+        - {x: -29.75, y: -32}
+        - {x: -28.75, y: -36}
+        - {x: -11.75, y: -36}
+        - {x: 12.25, y: -23}
+        - {x: 12.25, y: 11}
+        - {x: 5.25, y: 18}
+    - name: Barbar_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 23.25}
+        - {x: -19, y: 13.25}
+        - {x: -19, y: -43.75}
+        - {x: -18, y: -48.75}
+        - {x: -16, y: -51.75}
+        - {x: -3, y: -51.75}
+        - {x: 12, y: -27.75}
+        - {x: 12, y: 11.25}
+        - {x: -2, y: 23.25}
+    - name: Barbar_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.75, y: 22.25}
+        - {x: -14.75, y: 8.25}
+        - {x: -19.75, y: -15.75}
+        - {x: -19.75, y: -35.75}
+        - {x: -11.75, y: -47.75}
+        - {x: 24.25, y: -47.75}
+        - {x: 28.25, y: -42.75}
+        - {x: 28.25, y: -6.75}
+        - {x: 21.25, y: 22.25}
+    - name: Barbar_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19.25}
+        - {x: -25, y: -12.75}
+        - {x: -25, y: -41.75}
+        - {x: -11, y: -49.75}
+        - {x: -3, y: -51.75}
+        - {x: 15, y: -51.75}
+        - {x: 16, y: -44.75}
+        - {x: 16, y: 18.25}
+        - {x: 13, y: 19.25}
+    - name: Barbar_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.75, y: 24.25}
+        - {x: -36.75, y: -43.75}
+        - {x: -33.75, y: -48.75}
+        - {x: -27.75, y: -48.75}
+        - {x: 17.25, y: -16.75}
+        - {x: 19.25, y: -12.75}
+        - {x: 19.25, y: 13.25}
+        - {x: 16.25, y: 24.25}
+    - name: Barbar_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 35.25}
+        - {x: -34, y: 35.25}
+        - {x: -23, y: 7.25}
+        - {x: -19, y: 2.25}
+        - {x: -25, y: 9.25}
+        - {x: -30, y: 13.25}
+        - {x: -32, y: 13.25}
+        - {x: -35, y: 12.25}
+        - {x: -35, y: 5.25}
+        - {x: -28, y: -11.75}
+        - {x: -13, y: -27.75}
+        - {x: -9, y: -28.75}
+        - {x: 13, y: -28.75}
+        - {x: 19, y: -18.75}
+        - {x: 19, y: 0.25}
+        - {x: 11, y: 28.25}
+    - name: Barbar_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.75, y: 33.25}
+        - {x: -23.75, y: 5.25}
+        - {x: -18.75, y: -1.75}
+        - {x: -22.75, y: 3.25}
+        - {x: -26.75, y: 10.25}
+        - {x: -32.75, y: 10.25}
+        - {x: -32.75, y: -8.75}
+        - {x: -30.75, y: -20.75}
+        - {x: -12.75, y: -25.75}
+        - {x: 20.25, y: -25.75}
+        - {x: 21.25, y: -24.75}
+        - {x: 21.25, y: 7.25}
+        - {x: 5.25, y: 33.25}
+    - name: Barbar_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27.25}
+        - {x: -29, y: 12.25}
+        - {x: -29, y: -12.75}
+        - {x: -22, y: -25.75}
+        - {x: 4, y: -25.75}
+        - {x: 18, y: -19.75}
+        - {x: 20, y: -8.75}
+        - {x: 20, y: 5.25}
+        - {x: 2, y: 27.25}
+    - name: Barbar_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.75, y: 22.25}
+        - {x: -23.75, y: 10.25}
+        - {x: -25.75, y: -2.75}
+        - {x: -25.75, y: -27.75}
+        - {x: -18.75, y: -30.75}
+        - {x: -11.75, y: -30.75}
+        - {x: 7.25, y: -24.75}
+        - {x: 16.25, y: -8.75}
+        - {x: 16.25, y: 6.25}
+        - {x: 2.25, y: 22.25}
+    - name: Barbar_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 20}
+        - {x: -9, y: 20}
+        - {x: -19, y: 10}
+        - {x: -25, y: -8}
+        - {x: -25, y: -25}
+        - {x: -19, y: -31}
+        - {x: 9, y: -31}
+        - {x: 18, y: -16}
+        - {x: 18, y: 8}
+        - {x: 14, y: 19}
+    - name: Barbar_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.75, y: 20}
+        - {x: -31.75, y: 8}
+        - {x: -31.75, y: -22}
+        - {x: -29.75, y: -25}
+        - {x: -24.75, y: -30}
+        - {x: -20.75, y: -32}
+        - {x: -5.75, y: -32}
+        - {x: 12.25, y: -27}
+        - {x: 18.25, y: -11}
+        - {x: 18.25, y: 9}
+        - {x: 8.25, y: 20}
+    - name: Barbar_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 21}
+        - {x: -27, y: 9}
+        - {x: -38, y: -5}
+        - {x: -38, y: -45}
+        - {x: -20, y: -45}
+        - {x: 16, y: -30}
+        - {x: 16, y: 21}
+    - name: Barbar_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.25, y: 17}
+        - {x: 17.25, y: 18}
+        - {x: -18.75, y: 18}
+        - {x: -30.75, y: -14}
+        - {x: -30.75, y: -44}
+        - {x: -28.75, y: -47}
+        - {x: -13.75, y: -53}
+        - {x: -3.75, y: -53}
+        - {x: 14.25, y: -20}
+        - {x: 19.25, y: 2}
+        - {x: 20.25, y: 5}
+    - name: Barbar_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -36, y: -6}
+        - {x: -36, y: -44}
+        - {x: -35, y: -45}
+        - {x: -28, y: -51}
+        - {x: -21, y: -51}
+        - {x: -5, y: -48}
+        - {x: 22, y: -23}
+        - {x: 22, y: 20}
+    - name: Barbar_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.25, y: 7}
+        - {x: 11.25, y: 7}
+        - {x: 17.25, y: 10}
+        - {x: 12.25, y: 24}
+        - {x: -0.75, y: 24}
+        - {x: -4.75, y: 18}
+        - {x: -20.75, y: 21}
+        - {x: -30.75, y: 16}
+        - {x: -31.75, y: 13}
+        - {x: -33.75, y: 8}
+        - {x: -45.75, y: -27}
+        - {x: -45.75, y: -34}
+        - {x: -44.75, y: -35}
+        - {x: -24.75, y: -35}
+        - {x: 6.25, y: -33}
+        - {x: 21.25, y: -30}
+        - {x: 21.25, y: 7}
+    - name: Barbar_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 21}
+        - {x: 9, y: 16}
+        - {x: 9, y: 14}
+        - {x: 9, y: 19}
+        - {x: 13, y: 21}
+        - {x: 16, y: 38}
+        - {x: 9, y: 38}
+        - {x: -14, y: 7}
+        - {x: -14, y: -28}
+        - {x: -11, y: -36}
+        - {x: 11, y: -36}
+        - {x: 25, y: -9}
+        - {x: 25, y: 20}
+        - {x: 22, y: 23}
+    - name: Barbar_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.25, y: 36}
+        - {x: -14.75, y: 2}
+        - {x: -14.75, y: -28}
+        - {x: -5.75, y: -33}
+        - {x: 7.25, y: -33}
+        - {x: 14.25, y: -30}
+        - {x: 21.25, y: -24}
+        - {x: 21.25, y: 36}
+    - name: Barbar_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 30.25}
+        - {x: -19, y: 15.25}
+        - {x: -19, y: -29.75}
+        - {x: 13, y: -29.75}
+        - {x: 20, y: -27.75}
+        - {x: 20, y: 7.25}
+        - {x: 14, y: 30.25}
+    - name: Barbar_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.75, y: 22.25}
+        - {x: -20.75, y: 5.25}
+        - {x: -21.75, y: 1.25}
+        - {x: -21.75, y: -23.75}
+        - {x: -17.75, y: -27.75}
+        - {x: 15.25, y: -27.75}
+        - {x: 20.25, y: -21.75}
+        - {x: 20.25, y: 7.25}
+        - {x: 13.25, y: 22.25}
+    - name: Barbar_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20.25}
+        - {x: -20, y: 14.25}
+        - {x: -20, y: -31.75}
+        - {x: 11, y: -31.75}
+        - {x: 21, y: -14.75}
+        - {x: 21, y: 12.25}
+        - {x: 10, y: 20.25}
+    - name: Barbar_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.75, y: 19.25}
+        - {x: -20.75, y: 12.25}
+        - {x: -18.75, y: 6.25}
+        - {x: -15.75, y: 1.25}
+        - {x: -24.75, y: -5.75}
+        - {x: -24.75, y: -23.75}
+        - {x: -22.75, y: -30.75}
+        - {x: 7.25, y: -30.75}
+        - {x: 21.25, y: -27.75}
+        - {x: 21.25, y: 19.25}
+    - name: Barbar_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 14.25}
+        - {x: -47, y: 1.25}
+        - {x: -47, y: -30.75}
+        - {x: -41, y: -34.75}
+        - {x: 6, y: -34.75}
+        - {x: 25, y: -28.75}
+        - {x: 25, y: 14.25}
+    - name: Barbar_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.25, y: 17.25}
+        - {x: -11.75, y: 17.25}
+        - {x: -34.75, y: 1.25}
+        - {x: -39.75, y: -29.75}
+        - {x: -39.75, y: -37.75}
+        - {x: -35.75, y: -41.75}
+        - {x: -32.75, y: -41.75}
+        - {x: 22.25, y: -31.75}
+        - {x: 25.25, y: -25.75}
+        - {x: 25.25, y: 12.25}
+    - name: Barbar_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 20.25}
+        - {x: -41, y: 6.25}
+        - {x: -46, y: -10.75}
+        - {x: -46, y: -35.75}
+        - {x: 20, y: -35.75}
+        - {x: 20, y: 20.25}
+    - name: Barbar_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.75, y: 33.25}
+        - {x: -42.75, y: 17.25}
+        - {x: -42.75, y: -20.75}
+        - {x: -7.75, y: -34.75}
+        - {x: 9.25, y: -34.75}
+        - {x: 14.25, y: -33.75}
+        - {x: 17.25, y: -27.75}
+        - {x: 17.25, y: 21.25}
+        - {x: 4.25, y: 33.25}
+    - name: Barbar_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -4}
+        - {x: -17, y: -24}
+        - {x: -17, y: -36}
+        - {x: 17, y: -36}
+        - {x: 44, y: -20}
+        - {x: 44, y: 22}
+        - {x: 33, y: 22}
+        - {x: 6, y: 16}
+    - name: Barbar_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.25, y: 22}
+        - {x: 5.25, y: 14}
+        - {x: -10.75, y: -3}
+        - {x: -10.75, y: -36}
+        - {x: 1.25, y: -36}
+        - {x: 14.25, y: -33}
+        - {x: 40.25, y: -8}
+        - {x: 41.25, y: -5}
+        - {x: 41.25, y: 22}
+    - name: Barbar_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 20}
+        - {x: -1, y: 20}
+        - {x: -12, y: 14}
+        - {x: -12, y: -36}
+        - {x: 9, y: -36}
+        - {x: 30, y: -6}
+        - {x: 33, y: 5}
+        - {x: 33, y: 19}
+    - name: Barbar_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.25, y: 21}
+        - {x: -16.75, y: 9}
+        - {x: -16.75, y: -28}
+        - {x: -13.75, y: -34}
+        - {x: 10.25, y: -34}
+        - {x: 18.25, y: -31}
+        - {x: 25.25, y: 0}
+        - {x: 25.25, y: 15}
+        - {x: 18.25, y: 21}
+    - name: Barbar_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 18}
+        - {x: -5, y: 18}
+        - {x: -6, y: 14}
+        - {x: -18, y: -23}
+        - {x: -18, y: -28}
+        - {x: -12, y: -35}
+        - {x: 2, y: -35}
+        - {x: 15, y: -31}
+        - {x: 24, y: -7}
+        - {x: 24, y: 0}
+        - {x: 15, y: 17}
+    - name: Barbar_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.75, y: 20}
+        - {x: -12.75, y: 17}
+        - {x: -19.75, y: -8}
+        - {x: -19.75, y: -27}
+        - {x: -17.75, y: -30}
+        - {x: -1.75, y: -35}
+        - {x: 20.25, y: -35}
+        - {x: 22.25, y: -29}
+        - {x: 22.25, y: 16}
+        - {x: 15.25, y: 20}
+    - name: Barbar_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 31}
+        - {x: -27, y: 31}
+        - {x: -37, y: 21}
+        - {x: -37, y: -35}
+        - {x: 18, y: -35}
+        - {x: 22, y: -20}
+        - {x: 22, y: 5}
+        - {x: -5, y: 22}
+    - name: Barbar_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.75, y: -3}
+        - {x: -38.75, y: -4}
+        - {x: -31.75, y: -4}
+        - {x: -23.75, y: 1}
+        - {x: -30.75, y: -4}
+        - {x: -46.75, y: -6}
+        - {x: -46.75, y: -26}
+        - {x: -31.75, y: -38}
+        - {x: 12.25, y: -38}
+        - {x: 19.25, y: -27}
+        - {x: 19.25, y: 0}
+        - {x: 6.25, y: 21}
+        - {x: -18.75, y: 21}
+        - {x: -38.75, y: 8}
+    - name: Barbar_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 28.25}
+        - {x: -20, y: 28.25}
+        - {x: -38, y: 25.25}
+        - {x: -35, y: 13.25}
+        - {x: -44, y: -5.75}
+        - {x: -44, y: -19.75}
+        - {x: -17, y: -36.75}
+        - {x: 0, y: -36.75}
+        - {x: 5, y: -33.75}
+        - {x: 11, y: -14.75}
+        - {x: 11, y: 18.25}
+    - name: Barbar_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.75, y: 42.25}
+        - {x: -23.75, y: 2.25}
+        - {x: -23.75, y: -5.75}
+        - {x: -21.75, y: -8.75}
+        - {x: -15.75, y: -31.75}
+        - {x: -12.75, y: -34.75}
+        - {x: 5.25, y: -34.75}
+        - {x: 17.25, y: -22.75}
+        - {x: 17.25, y: 39.25}
+        - {x: 16.25, y: 42.25}
+    - name: Barbar_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 5.25}
+        - {x: 0, y: 5.25}
+        - {x: -23, y: -4.75}
+        - {x: -23, y: -35.75}
+        - {x: -6, y: -41.75}
+        - {x: 24, y: -41.75}
+        - {x: 42, y: -33.75}
+        - {x: 50, y: -28.75}
+        - {x: 50, y: -3.75}
+    - name: Barbar_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.25, y: -12.75}
+        - {x: 15.25, y: -12.75}
+        - {x: 21.25, y: -10.75}
+        - {x: 43.25, y: -11.75}
+        - {x: 46.25, y: -7.75}
+        - {x: 46.25, y: -3.75}
+        - {x: 21.25, y: 7.25}
+        - {x: 5.25, y: 7.25}
+        - {x: -14.75, y: -3.75}
+        - {x: -16.75, y: -16.75}
+        - {x: -13.75, y: -17.75}
+        - {x: -20.75, y: -25.75}
+        - {x: -20.75, y: -31.75}
+        - {x: -9.75, y: -39.75}
+        - {x: 24.25, y: -39.75}
+        - {x: 43.25, y: -32.75}
+        - {x: 38.25, y: -21.75}
+        - {x: 20.25, y: -12.75}
+    - name: Barbar_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13.25}
+        - {x: -13, y: 4.25}
+        - {x: -18, y: -13.75}
+        - {x: -18, y: -33.75}
+        - {x: -17, y: -35.75}
+        - {x: 30, y: -35.75}
+        - {x: 36, y: -12.75}
+        - {x: 36, y: -0.75}
+        - {x: 21, y: 13.25}
+    - name: Barbar_69
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.25, y: 18.25}
+        - {x: 3.25, y: 18.25}
+        - {x: -2.75, y: 17.25}
+        - {x: -6.75, y: 8.25}
+        - {x: -12.75, y: -18.75}
+        - {x: -12.75, y: -34.75}
+        - {x: 9.25, y: -34.75}
+        - {x: 25.25, y: -25.75}
+        - {x: 28.25, y: -8.75}
+        - {x: 28.25, y: 0.25}
+    - name: Barbar_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18.25}
+        - {x: -4, y: 18.25}
+        - {x: -15, y: -5.75}
+        - {x: -20, y: -19.75}
+        - {x: -20, y: -37.75}
+        - {x: 17, y: -37.75}
+        - {x: 21, y: -23.75}
+        - {x: 21, y: 1.25}
+        - {x: 14, y: 15.25}
+    - name: Barbar_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.75, y: 20.25}
+        - {x: -18.75, y: 0.25}
+        - {x: -18.75, y: -31.75}
+        - {x: -13.75, y: -36.75}
+        - {x: 10.25, y: -36.75}
+        - {x: 23.25, y: -22.75}
+        - {x: 23.25, y: 14.25}
+        - {x: 12.25, y: 20.25}
+    - name: Barbar_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 33}
+        - {x: 2, y: 37}
+        - {x: -5, y: 37}
+        - {x: -17, y: 20}
+        - {x: -24, y: -7}
+        - {x: -24, y: -26}
+        - {x: -9, y: -42}
+        - {x: -2, y: -42}
+        - {x: 3, y: -40}
+        - {x: 7, y: -33}
+        - {x: 13, y: -21}
+        - {x: 13, y: 18}
+    - name: Barbar_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.75, y: 25}
+        - {x: -27.75, y: 20}
+        - {x: -26.75, y: 16}
+        - {x: -20.75, y: 12}
+        - {x: -31.75, y: 4}
+        - {x: -31.75, y: 0}
+        - {x: -25.75, y: -4}
+        - {x: -18.75, y: -39}
+        - {x: -15.75, y: -42}
+        - {x: 9.25, y: -42}
+        - {x: 14.25, y: -26}
+        - {x: 14.25, y: 24}
+        - {x: 9.25, y: 25}
+    - name: Barbar_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 35}
+        - {x: -24, y: 20}
+        - {x: -24, y: -34}
+        - {x: -19, y: -36}
+        - {x: -6, y: -36}
+        - {x: 16, y: -21}
+        - {x: 16, y: 24}
+        - {x: 1, y: 35}
+    - name: Barbar_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.25, y: 39}
+        - {x: 13.25, y: 39}
+        - {x: 10.25, y: 33}
+        - {x: -16.75, y: -3}
+        - {x: -22.75, y: -21}
+        - {x: -22.75, y: -32}
+        - {x: -18.75, y: -38}
+        - {x: 14.25, y: -38}
+        - {x: 26.25, y: -6}
+        - {x: 26.25, y: 32}
+        - {x: 24.25, y: 35}
+    - name: Barbar_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -29}
+        - {x: 22, y: -36}
+        - {x: 27, y: -34}
+        - {x: 27, y: -21}
+        - {x: 17, y: 1}
+        - {x: 5, y: 3}
+        - {x: -21, y: 3}
+        - {x: -24, y: -5}
+        - {x: -24, y: -35}
+        - {x: -23, y: -39}
+        - {x: -17, y: -49}
+        - {x: 7, y: -56}
+        - {x: 21, y: -56}
+        - {x: 23, y: -46}
+        - {x: 18, y: -32}
+        - {x: 12, y: -27}
+    - name: Barbar_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.25, y: -25}
+        - {x: 17.25, y: -27}
+        - {x: 21.25, y: -32}
+        - {x: 28.25, y: -32}
+        - {x: 28.25, y: -23}
+        - {x: 24.25, y: -10}
+        - {x: 9.25, y: 3}
+        - {x: -17.75, y: 3}
+        - {x: -23.75, y: -8}
+        - {x: -23.75, y: -28}
+        - {x: -13.75, y: -50}
+        - {x: 3.25, y: -54}
+        - {x: 21.25, y: -54}
+        - {x: 23.25, y: -42}
+        - {x: 20.25, y: -31}
+        - {x: 17.25, y: -27}
+    - name: Barbar_78
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 7}
+        - {x: -20, y: -8}
+        - {x: -19, y: -16}
+        - {x: -16, y: -18}
+        - {x: -24, y: -21}
+        - {x: -24, y: -31}
+        - {x: -19, y: -44}
+        - {x: -3, y: -43}
+        - {x: 5, y: -34}
+        - {x: 5, y: -31}
+        - {x: 5, y: -44}
+        - {x: 8, y: -48}
+        - {x: 16, y: -48}
+        - {x: 23, y: -30}
+        - {x: 23, y: 7}
+    - name: Barbar_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.25, y: 15}
+        - {x: -19.75, y: -1}
+        - {x: -20.75, y: -4}
+        - {x: -20.75, y: -33}
+        - {x: -14.75, y: -42}
+        - {x: 17.25, y: -42}
+        - {x: 21.25, y: -17}
+        - {x: 21.25, y: 2}
+        - {x: 11.25, y: 15}
+    - name: Barbar_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19.25}
+        - {x: -16, y: 16.25}
+        - {x: -22, y: 7.25}
+        - {x: -22, y: -29.75}
+        - {x: -13, y: -42.75}
+        - {x: 5, y: -42.75}
+        - {x: 15, y: -35.75}
+        - {x: 16, y: -30.75}
+        - {x: 16, y: -2.75}
+        - {x: 8, y: 19.25}
+    - name: Barbar_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.75, y: 17.25}
+        - {x: -19.75, y: -2.75}
+        - {x: -19.75, y: -32.75}
+        - {x: -5.75, y: -38.75}
+        - {x: 2.25, y: -38.75}
+        - {x: 13.25, y: -33.75}
+        - {x: 16.25, y: -14.75}
+        - {x: 16.25, y: 5.25}
+        - {x: 5.25, y: 17.25}
+    - name: Barbar_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 19.25}
+        - {x: -6, y: 19.25}
+        - {x: -22, y: 9.25}
+        - {x: -22, y: -33.75}
+        - {x: -12, y: -35.75}
+        - {x: 7, y: -35.75}
+        - {x: 13, y: -26.75}
+        - {x: 19, y: -16.75}
+        - {x: 19, y: 4.25}
+    - name: Barbar_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.25, y: 23.25}
+        - {x: -1.75, y: 23.25}
+        - {x: -8.75, y: 19.25}
+        - {x: -19.75, y: 9.25}
+        - {x: -23.75, y: -1.75}
+        - {x: -23.75, y: -34.75}
+        - {x: -21.75, y: -38.75}
+        - {x: 6.25, y: -38.75}
+        - {x: 15.25, y: -19.75}
+        - {x: 20.25, y: -3.75}
+        - {x: 20.25, y: 5.25}
+    - name: Barbar_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -9.75}
+        - {x: 13, y: -14.75}
+        - {x: 20, y: -10.75}
+        - {x: 20, y: 7.25}
+        - {x: 3, y: 19.25}
+        - {x: -9, y: 19.25}
+        - {x: -18, y: 1.25}
+        - {x: -22, y: -21.75}
+        - {x: -22, y: -36.75}
+        - {x: -16, y: -39.75}
+        - {x: 8, y: -39.75}
+        - {x: 20, y: -27.75}
+        - {x: 20, y: -24.75}
+        - {x: 15, y: -16.75}
+        - {x: 11, y: -14.75}
+        - {x: 10, y: -7.75}
+    - name: Barbar_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.25, y: 17.25}
+        - {x: -4.75, y: 17.25}
+        - {x: -19.75, y: -11.75}
+        - {x: -19.75, y: -29.75}
+        - {x: -18.75, y: -32.75}
+        - {x: -7.75, y: -32.75}
+        - {x: -1.75, y: -41.75}
+        - {x: -0.75, y: -42.75}
+        - {x: 9.25, y: -42.75}
+        - {x: 20.25, y: -19.75}
+        - {x: 20.25, y: -0.75}
+        - {x: 19.25, y: 0.25}
+    - name: Barbar_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19.25}
+        - {x: -21, y: 0.25}
+        - {x: -22, y: -6.75}
+        - {x: -22, y: -31.75}
+        - {x: -11, y: -39.75}
+        - {x: 18, y: -39.75}
+        - {x: 18, y: 18.25}
+        - {x: 15, y: 19.25}
+    - name: Barbar_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: 22.25}
+        - {x: 5.25, y: 23.25}
+        - {x: -6.75, y: 23.25}
+        - {x: -16.75, y: 10.25}
+        - {x: -16.75, y: 2.25}
+        - {x: -22.75, y: -7.75}
+        - {x: -22.75, y: -33.75}
+        - {x: -10.75, y: -43.75}
+        - {x: 1.25, y: -43.75}
+        - {x: 13.25, y: -35.75}
+        - {x: 18.25, y: -14.75}
+        - {x: 18.25, y: 4.25}
+    - name: Barbar_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 15}
+        - {x: 4, y: 19}
+        - {x: 0, y: 19}
+        - {x: -5, y: 18}
+        - {x: -12, y: 12}
+        - {x: -23, y: -17}
+        - {x: -23, y: -43}
+        - {x: -10, y: -43}
+        - {x: 14, y: -31}
+        - {x: 14, y: -3}
+        - {x: 9, y: 13}
+    - name: Barbar_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.25, y: 17}
+        - {x: -4.75, y: 17}
+        - {x: -16.75, y: 12}
+        - {x: -19.75, y: -11}
+        - {x: -19.75, y: -40}
+        - {x: -5.75, y: -40}
+        - {x: 14.25, y: -23}
+        - {x: 14.25, y: -7}
+        - {x: 13.25, y: -1}
+    - name: Barbar_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -20, y: -1}
+        - {x: -23, y: -11}
+        - {x: -23, y: -32}
+        - {x: -14, y: -39}
+        - {x: 11, y: -39}
+        - {x: 14, y: -27}
+        - {x: 14, y: 11}
+        - {x: 7, y: 19}
+    - name: Barbar_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.75, y: 23}
+        - {x: -25.75, y: 6}
+        - {x: -27.75, y: -5}
+        - {x: -27.75, y: -33}
+        - {x: -20.75, y: -43}
+        - {x: -6.75, y: -43}
+        - {x: 17.25, y: -33}
+        - {x: 17.25, y: 0}
+        - {x: 6.25, y: 23}
+    - name: Barbar_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -23, y: -3}
+        - {x: -20, y: -12}
+        - {x: -14, y: -11}
+        - {x: -27, y: -15}
+        - {x: -27, y: -37}
+        - {x: -24, y: -44}
+        - {x: -2, y: -44}
+        - {x: 6, y: -38}
+        - {x: 17, y: -18}
+        - {x: 17, y: 8}
+        - {x: 6, y: 20}
+    - name: Barbar_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.75, y: 17}
+        - {x: -21.75, y: -5}
+        - {x: -21.75, y: -38}
+        - {x: -19.75, y: -45}
+        - {x: -10.75, y: -45}
+        - {x: 6.25, y: -39}
+        - {x: 16.25, y: -20}
+        - {x: 16.25, y: 4}
+        - {x: 12.25, y: 17}
+    - name: Barbar_94
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -12, y: 19}
+        - {x: -22, y: -4}
+        - {x: -22, y: -39}
+        - {x: -6, y: -39}
+        - {x: 7, y: -34}
+        - {x: 13, y: -23}
+        - {x: 13, y: 6}
+    - name: Barbar_95
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: 23}
+        - {x: -2.75, y: 23}
+        - {x: -14.75, y: 17}
+        - {x: -25.75, y: -22}
+        - {x: -25.75, y: -43}
+        - {x: -3.75, y: -43}
+        - {x: 13.25, y: -27}
+        - {x: 13.25, y: 16}
+        - {x: 12.25, y: 22}
+    - name: Barbar_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 18.25}
+        - {x: -12, y: 18.25}
+        - {x: -11, y: 10.25}
+        - {x: -11, y: 3.25}
+        - {x: -11, y: 7.25}
+        - {x: -12, y: 10.25}
+        - {x: -19, y: 12.25}
+        - {x: -24, y: 8.25}
+        - {x: -24, y: -12.75}
+        - {x: -34, y: -27.75}
+        - {x: -34, y: -34.75}
+        - {x: -26, y: -34.75}
+        - {x: -12, y: -33.75}
+        - {x: 11, y: -33.75}
+        - {x: 15, y: -18.75}
+        - {x: 15, y: 15.25}
+    - name: Barbar_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: 17.25}
+        - {x: -13.75, y: 17.25}
+        - {x: -27.75, y: -2.75}
+        - {x: -27.75, y: -34.75}
+        - {x: 2.25, y: -34.75}
+        - {x: 11.25, y: -26.75}
+        - {x: 13.25, y: -24.75}
+        - {x: 13.25, y: 9.25}
+    - name: Barbar_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 17.25}
+        - {x: 6, y: 18.25}
+        - {x: -6, y: 18.25}
+        - {x: -15, y: 5.25}
+        - {x: -24, y: -27.75}
+        - {x: -24, y: -35.75}
+        - {x: -8, y: -35.75}
+        - {x: -1, y: -33.75}
+        - {x: 8, y: -22.75}
+    - name: Barbar_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: 23.25}
+        - {x: -6.75, y: 23.25}
+        - {x: -22.75, y: 15.25}
+        - {x: -29.75, y: -24.75}
+        - {x: -29.75, y: -37.75}
+        - {x: -1.75, y: -37.75}
+        - {x: 5.25, y: -29.75}
+        - {x: 11.25, y: -22.75}
+        - {x: 11.25, y: 19.25}
+    - name: Barbar_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20.25}
+        - {x: -6, y: 20.25}
+        - {x: -10, y: 19.25}
+        - {x: -23, y: 9.25}
+        - {x: -31, y: -28.75}
+        - {x: -31, y: -37.75}
+        - {x: -28, y: -38.75}
+        - {x: -7, y: -38.75}
+        - {x: 8, y: -34.75}
+        - {x: 13, y: -22.75}
+        - {x: 13, y: 1.25}
+    - name: Barbar_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.25, y: 17.25}
+        - {x: -6.75, y: 17.25}
+        - {x: -7.75, y: 15.25}
+        - {x: -23.75, y: 2.25}
+        - {x: -21.75, y: -5.75}
+        - {x: -32.75, y: -31.75}
+        - {x: -32.75, y: -36.75}
+        - {x: 0.25, y: -36.75}
+        - {x: 13.25, y: -18.75}
+        - {x: 13.25, y: 4.25}
+        - {x: 11.25, y: 15.25}
+    - name: Barbar_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18.25}
+        - {x: -28, y: 12.25}
+        - {x: -30, y: -11.75}
+        - {x: -30, y: -34.75}
+        - {x: 2, y: -34.75}
+        - {x: 9, y: -18.75}
+        - {x: 9, y: 18.25}
+    - name: Barbar_103
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.75, y: 23.25}
+        - {x: -29.75, y: 20.25}
+        - {x: -34.75, y: -17.75}
+        - {x: -34.75, y: -35.75}
+        - {x: 4.25, y: -35.75}
+        - {x: 15.25, y: -17.75}
+        - {x: 15.25, y: 20.25}
+        - {x: 12.25, y: 23.25}
+    - name: Barbar_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 21}
+        - {x: -35, y: -2}
+        - {x: -35, y: -23}
+        - {x: -33, y: -26}
+        - {x: -14, y: -33}
+        - {x: -7, y: -33}
+        - {x: 4, y: -32}
+        - {x: 19, y: -20}
+        - {x: 19, y: 9}
+        - {x: 13, y: 21}
+    - name: Barbar_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.25, y: 17}
+        - {x: -14.75, y: 17}
+        - {x: -24.75, y: 15}
+        - {x: -28.75, y: 1}
+        - {x: -28.75, y: -25}
+        - {x: -26.75, y: -28}
+        - {x: -15.75, y: -32}
+        - {x: -3.75, y: -32}
+        - {x: 4.25, y: -30}
+        - {x: 16.25, y: -24}
+        - {x: 17.25, y: -21}
+        - {x: 17.25, y: 6}
+    - name: Barbar_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -23, y: 14}
+        - {x: -30, y: -15}
+        - {x: -30, y: -31}
+        - {x: -26, y: -33}
+        - {x: -6, y: -33}
+        - {x: 10, y: -24}
+        - {x: 13, y: 1}
+        - {x: 13, y: 8}
+        - {x: 6, y: 18}
+    - name: Barbar_107
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.25, y: 23}
+        - {x: -1.75, y: 23}
+        - {x: -10.75, y: 17}
+        - {x: -19.75, y: 19}
+        - {x: -21.75, y: 15}
+        - {x: -33.75, y: -10}
+        - {x: -33.75, y: -36}
+        - {x: -3.75, y: -36}
+        - {x: 11.25, y: -31}
+        - {x: 13.25, y: -23}
+        - {x: 13.25, y: -1}
+        - {x: 11.25, y: 12}
+    - name: Barbar_108
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -22, y: 19}
+        - {x: -27, y: 18}
+        - {x: -36, y: -18}
+        - {x: -36, y: -26}
+        - {x: -32, y: -32}
+        - {x: -16, y: -35}
+        - {x: -6, y: -35}
+        - {x: 12, y: -24}
+        - {x: 13, y: -23}
+        - {x: 13, y: 0}
+    - name: Barbar_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.75, y: 17}
+        - {x: -35.75, y: -28}
+        - {x: -20.75, y: -34}
+        - {x: -4.75, y: -34}
+        - {x: 14.25, y: -28}
+        - {x: 14.25, y: 17}
+    - name: Barbar_110
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 20}
+        - {x: -20, y: 16}
+        - {x: -30, y: -6}
+        - {x: -30, y: -24}
+        - {x: -21, y: -33}
+        - {x: -8, y: -33}
+        - {x: 13, y: -21}
+        - {x: 16, y: -5}
+        - {x: 16, y: 5}
+        - {x: 3, y: 19}
+    - name: Barbar_111
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.25, y: -3}
+        - {x: 13.25, y: -7}
+        - {x: 18.25, y: -8}
+        - {x: 20.25, y: -3}
+        - {x: 20.25, y: 5}
+        - {x: 3.25, y: 23}
+        - {x: -6.75, y: 26}
+        - {x: -21.75, y: 26}
+        - {x: -29.75, y: 19}
+        - {x: -33.75, y: 7}
+        - {x: -33.75, y: -23}
+        - {x: -22.75, y: -33}
+        - {x: 0.25, y: -33}
+        - {x: 15.25, y: -28}
+        - {x: 16.25, y: -17}
+        - {x: 8.25, y: -7}
+        - {x: 8.25, y: -1}
+    - name: Barbar_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16.25}
+        - {x: -7, y: 30.25}
+        - {x: -20, y: 30.25}
+        - {x: -25, y: -0.75}
+        - {x: -25, y: -33.75}
+        - {x: 7, y: -33.75}
+        - {x: 11, y: -30.75}
+        - {x: 12, y: -26.75}
+        - {x: 17, y: -18.75}
+        - {x: 17, y: -4.75}
+    - name: Barbar_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.75, y: 23.25}
+        - {x: -12.75, y: 21.25}
+        - {x: -22.75, y: -1.75}
+        - {x: -22.75, y: -22.75}
+        - {x: -17.75, y: -31.75}
+        - {x: 6.25, y: -31.75}
+        - {x: 16.25, y: -28.75}
+        - {x: 17.25, y: -27.75}
+        - {x: 17.25, y: 7.25}
+        - {x: 5.25, y: 23.25}
+    - name: Barbar_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20.25}
+        - {x: -14, y: 20.25}
+        - {x: -20, y: -6.75}
+        - {x: -15, y: -9.75}
+        - {x: -12, y: -9.75}
+        - {x: -19, y: -10.75}
+        - {x: -22, y: -11.75}
+        - {x: -26, y: -13.75}
+        - {x: -26, y: -18.75}
+        - {x: -24, y: -25.75}
+        - {x: -16, y: -31.75}
+        - {x: -4, y: -31.75}
+        - {x: 15, y: -20.75}
+        - {x: 17, y: -14.75}
+        - {x: 17, y: 12.25}
+    - name: Barbar_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.75, y: 27.25}
+        - {x: -27.75, y: 18.25}
+        - {x: -27.75, y: -26.75}
+        - {x: -22.75, y: -32.75}
+        - {x: 0.25, y: -32.75}
+        - {x: 8.25, y: -29.75}
+        - {x: 17.25, y: -12.75}
+        - {x: 17.25, y: 15.25}
+        - {x: 9.25, y: 27.25}
+    - name: Barbar_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26.25}
+        - {x: -29, y: 26.25}
+        - {x: -29, y: -28.75}
+        - {x: -21, y: -31.75}
+        - {x: 9, y: -31.75}
+        - {x: 16, y: -16.75}
+        - {x: 16, y: 17.25}
+        - {x: 12, y: 19.25}
+    - name: Barbar_117
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.75, y: 27.25}
+        - {x: -15.75, y: 27.25}
+        - {x: -23.75, y: 1.25}
+        - {x: -13.75, y: -10.75}
+        - {x: -20.75, y: -2.75}
+        - {x: -26.75, y: -5.75}
+        - {x: -26.75, y: -11.75}
+        - {x: -21.75, y: -24.75}
+        - {x: -14.75, y: -31.75}
+        - {x: 8.25, y: -31.75}
+        - {x: 17.25, y: -9.75}
+        - {x: 17.25, y: 10.25}
+        - {x: 15.25, y: 16.25}
+    - name: Barbar_118
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 26.25}
+        - {x: -14, y: 26.25}
+        - {x: -22, y: -7.75}
+        - {x: -22, y: -28.75}
+        - {x: -18, y: -31.75}
+        - {x: 12, y: -31.75}
+        - {x: 18, y: -22.75}
+        - {x: 18, y: 4.25}
+        - {x: 12, y: 14.25}
+    - name: Barbar_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.25, y: -22.75}
+        - {x: 17.25, y: -15.75}
+        - {x: 17.25, y: 10.25}
+        - {x: 5.25, y: 33.25}
+        - {x: -8.75, y: 33.25}
+        - {x: -24.75, y: -0.75}
+        - {x: -24.75, y: -21.75}
+        - {x: -18.75, y: -33.75}
+        - {x: 10.25, y: -33.75}
+        - {x: 12.25, y: -24.75}
+        - {x: 8.25, y: -22.75}
+        - {x: 3.25, y: -22.75}
+    - name: Barbar_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 29}
+        - {x: 9, y: 30}
+        - {x: -5, y: 30}
+        - {x: -20, y: -9}
+        - {x: -20, y: -33}
+        - {x: -11, y: -37}
+        - {x: -2, y: -37}
+        - {x: 5, y: -33}
+        - {x: 14, y: -18}
+        - {x: 14, y: 8}
+        - {x: 13, y: 17}
+    - name: Barbar_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.75, y: -12}
+        - {x: -17.75, y: -31}
+        - {x: -14.75, y: -34}
+        - {x: 5.25, y: -34}
+        - {x: 13.25, y: -29}
+        - {x: 13.25, y: 20}
+        - {x: 11.25, y: 25}
+        - {x: 1.25, y: 25}
+        - {x: -3.75, y: 21}
+        - {x: -10.75, y: 9}
+    - name: Barbar_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 23}
+        - {x: 1, y: 25}
+        - {x: -5, y: 25}
+        - {x: -19, y: 4}
+        - {x: -20, y: 1}
+        - {x: -20, y: -32}
+        - {x: 15, y: -32}
+        - {x: 20, y: -20}
+        - {x: 20, y: -3}
+        - {x: 13, y: 10}
+    - name: Barbar_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.75, y: 31}
+        - {x: -24.75, y: 16}
+        - {x: -24.75, y: -32}
+        - {x: 14.25, y: -32}
+        - {x: 20.25, y: -21}
+        - {x: 20.25, y: 20}
+        - {x: 16.25, y: 31}
+    - name: Barbar_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: -5, y: 30}
+        - {x: -24, y: 1}
+        - {x: -24, y: -25}
+        - {x: -21, y: -31}
+        - {x: 20, y: -31}
+        - {x: 22, y: -27}
+        - {x: 22, y: 9}
+        - {x: 5, y: 28}
+    - name: Barbar_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.25, y: 30}
+        - {x: -19.75, y: 7}
+        - {x: -19.75, y: -31}
+        - {x: 3.25, y: -31}
+        - {x: 16.25, y: -29}
+        - {x: 20.25, y: -19}
+        - {x: 20.25, y: -1}
+        - {x: 10.25, y: 30}
+    - name: Barbar_126
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 25}
+        - {x: 3, y: 25}
+        - {x: -8, y: 19}
+        - {x: -19, y: 2}
+        - {x: -19, y: -32}
+        - {x: -16, y: -34}
+        - {x: 8, y: -34}
+        - {x: 14, y: -22}
+        - {x: 14, y: 13}
+        - {x: 12, y: 24}
+    - name: Barbar_127
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.25, y: 30}
+        - {x: 12.25, y: 31}
+        - {x: 5.25, y: 31}
+        - {x: -11.75, y: 16}
+        - {x: -18.75, y: -13}
+        - {x: -20.75, y: -25}
+        - {x: -20.75, y: -30}
+        - {x: -11.75, y: -37}
+        - {x: -1.75, y: -37}
+        - {x: 3.25, y: -34}
+        - {x: 16.25, y: -15}
+        - {x: 16.25, y: 14}
+    - name: Barbar_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 24.25}
+        - {x: 3, y: 24.25}
+        - {x: -7, y: 22.25}
+        - {x: -22, y: -19.75}
+        - {x: -22, y: -29.75}
+        - {x: -20, y: -33.75}
+        - {x: -4, y: -33.75}
+        - {x: 15, y: -22.75}
+        - {x: 23, y: -5.75}
+        - {x: 23, y: 17.25}
+    - name: Barbar_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.75, y: 21.25}
+        - {x: -6.75, y: 19.25}
+        - {x: -18.75, y: -12.75}
+        - {x: -18.75, y: -27.75}
+        - {x: -15.75, y: -32.75}
+        - {x: 15.25, y: -32.75}
+        - {x: 20.25, y: -9.75}
+        - {x: 20.25, y: 21.25}
+    - name: Barbar_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 23.25}
+        - {x: -10, y: 16.25}
+        - {x: -19, y: -16.75}
+        - {x: -19, y: -33.75}
+        - {x: 12, y: -33.75}
+        - {x: 15, y: -28.75}
+        - {x: 15, y: 23.25}
+    - name: Barbar_131
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.75, y: 27.25}
+        - {x: -21.75, y: -1.75}
+        - {x: -21.75, y: -34.75}
+        - {x: -13.75, y: -35.75}
+        - {x: 18.25, y: -35.75}
+        - {x: 18.25, y: 27.25}
+    - name: Barbar_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 23.25}
+        - {x: 17, y: 24.25}
+        - {x: 13, y: 24.25}
+        - {x: 10, y: 23.25}
+        - {x: -19, y: 16.25}
+        - {x: -20, y: 8.25}
+        - {x: -20, y: -33.75}
+        - {x: 6, y: -33.75}
+        - {x: 15, y: -31.75}
+        - {x: 13, y: -25.75}
+        - {x: 11, y: -23.75}
+        - {x: 19, y: -15.75}
+    - name: Barbar_133
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.75, y: 22.25}
+        - {x: -18.75, y: -12.75}
+        - {x: -18.75, y: -32.75}
+        - {x: 13.25, y: -32.75}
+        - {x: 24.25, y: -3.75}
+        - {x: 24.25, y: 22.25}
+    - name: Barbar_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18.25}
+        - {x: -10, y: 16.25}
+        - {x: -20, y: -20.75}
+        - {x: -20, y: -28.75}
+        - {x: -14, y: -34.75}
+        - {x: 2, y: -34.75}
+        - {x: 14, y: -15.75}
+        - {x: 20, y: 4.25}
+        - {x: 20, y: 18.25}
+    - name: Barbar_135
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.75, y: -21.75}
+        - {x: -21.75, y: -33.75}
+        - {x: -20.75, y: -34.75}
+        - {x: -5.75, y: -34.75}
+        - {x: 17.25, y: -28.75}
+        - {x: 23.25, y: -2.75}
+        - {x: 23.25, y: 23.25}
+        - {x: -6.75, y: 23.25}
+        - {x: -12.75, y: 21.25}
+    - name: Barbar_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: -13, y: 19}
+        - {x: -25, y: 2}
+        - {x: -25, y: -31}
+        - {x: -13, y: -35}
+        - {x: 16, y: -35}
+        - {x: 23, y: -24}
+        - {x: 24, y: -18}
+        - {x: 24, y: 12}
+    - name: Barbar_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.25, y: 17}
+        - {x: -5.75, y: 17}
+        - {x: -20.75, y: -1}
+        - {x: -20.75, y: -29}
+        - {x: -13.75, y: -34}
+        - {x: -2.75, y: -34}
+        - {x: 17.25, y: -30}
+        - {x: 21.25, y: -23}
+        - {x: 21.25, y: 8}
+        - {x: 19.25, y: 16}
+    - name: Barbar_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 18}
+        - {x: -9, y: 18}
+        - {x: -19, y: -21}
+        - {x: -19, y: -32}
+        - {x: -12, y: -36}
+        - {x: 1, y: -36}
+        - {x: 14, y: -22}
+        - {x: 20, y: -4}
+    - name: Barbar_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.25, y: 22}
+        - {x: -6.75, y: 22}
+        - {x: -20.75, y: -14}
+        - {x: -20.75, y: -35}
+        - {x: -14.75, y: -39}
+        - {x: -2.75, y: -39}
+        - {x: 10.25, y: -32}
+        - {x: 22.25, y: -4}
+        - {x: 22.25, y: 16}
+        - {x: 21.25, y: 18}
+    - name: Barbar_140
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -20, y: 6}
+        - {x: -20, y: -34}
+        - {x: -10, y: -39}
+        - {x: 0, y: -39}
+        - {x: 24, y: -30}
+        - {x: 25, y: -11}
+        - {x: 25, y: 18}
+    - name: Barbar_141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.25, y: 8}
+        - {x: 16.25, y: 17}
+        - {x: -14.75, y: 17}
+        - {x: -17.75, y: -10}
+        - {x: -17.75, y: -27}
+        - {x: -15.75, y: -34}
+        - {x: -13.75, y: -35}
+        - {x: 18.25, y: -35}
+        - {x: 28.25, y: -4}
+        - {x: 28.25, y: 4}
+    - name: Barbar_142
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -21, y: -9}
+        - {x: -21, y: -32}
+        - {x: -19, y: -35}
+        - {x: 21, y: -35}
+        - {x: 21, y: 12}
+        - {x: 9, y: 18}
+    - name: Barbar_143
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.25, y: 23}
+        - {x: -5.75, y: 23}
+        - {x: -23.75, y: 17}
+        - {x: -25.75, y: 10}
+        - {x: -25.75, y: -31}
+        - {x: -19.75, y: -37}
+        - {x: 10.25, y: -37}
+        - {x: 23.25, y: -20}
+        - {x: 24.25, y: -12}
+        - {x: 24.25, y: 14}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
