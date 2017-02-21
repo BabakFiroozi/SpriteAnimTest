@@ -8,6 +8,8 @@ using Sfs2X.Logging;
 using Sfs2X.Util;
 using Sfs2X.Core;
 using Sfs2X.Entities;
+using Sfs2X.Entities.Data;
+
 
 
 public class LoginPanel : MonoBehaviour {
@@ -15,10 +17,11 @@ public class LoginPanel : MonoBehaviour {
     public string HostIp = "192.168.0.69";
     public int TcpPort = 9933;
     public int WsPort = 8888;
-    public string ZoneName = "MyZone";
+    public string ZoneName = "BasicExamples";
 
     public Button _connectButton;
     public InputField _userNameField;
+    public InputField _passwordField;
 
     SmartFox _smartFoxServer;
 
@@ -102,7 +105,9 @@ public class LoginPanel : MonoBehaviour {
             SmartFoxConnection.Connection = _smartFoxServer;
 
             // Login
-            _smartFoxServer.Send(new Sfs2X.Requests.LoginRequest(_userNameField.text));
+            var data = new SFSObject();
+            data.PutUtfString("ClearPass", _passwordField.text);
+            _smartFoxServer.Send(new Sfs2X.Requests.LoginRequest(_userNameField.text, _passwordField.text, ZoneName, data));
         }
         else
         {
@@ -130,6 +135,20 @@ public class LoginPanel : MonoBehaviour {
     {
         // Remove SFS2X listeners and re-enable interface
         ResetLogin();
+
+        //evt.Params["userName"]
+        //TODO
+
+        print(evt.ToString());
+
+        var data = (SFSObject)evt.Params["data"];
+
+        int coin = (int)data.GetInt("Coin");        
+
+        print("Coin: " + coin.ToString());
+        print("USer: " + ((SFSUser)evt.Params["user"]).Name);
+
+        DebugConsole.Log("Coin: " + coin.ToString());
 
         // Load lobby scene
         SceneManager.LoadScene("LobbyScene");

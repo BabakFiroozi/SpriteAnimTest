@@ -1,20 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <RootNamespace>
-    </RootNamespace>
-    <ProjectGuid>{5407B9ED-FF9E-FCCE-C62A-994F4A3E0CF8}</ProjectGuid>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{F643D2F7-72DD-3067-4ED8-A7691F27712A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>Assets</BaseDirectory>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -25,7 +23,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
-    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -34,7 +31,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
-    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,35 +45,47 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\CameraControl.cs" />
-    <Compile Include="Assets\Scripts\OrderedObject.cs" />
-    <Compile Include="Assets\Scripts\OrderedObjectEditor.cs" />
-    <Compile Include="Assets\Scripts\Projectile.cs" />
-    <Compile Include="Assets\Scripts\SpriteAnimData.cs" />
-    <Compile Include="Assets\Scripts\SpriteSheetAnimator.cs" />
-    <Compile Include="Assets\Scripts\Tank.cs" />
-    <None Include="Assets\DOTween\DOTween50.xml" />
-    <None Include="Assets\DOTween\readme.txt" />
-    <None Include="Assets\DOTween\DOTween46.xml" />
-    <None Include="Assets\DOTween\DOTween43.xml" />
-    <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Program Files/Unity5.3.4/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Networking">
-      <HintPath>C:/Program Files/Unity5.3.4/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>D:/Projects/SpriteTest/Assets/DOTween/DOTween.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween43">
-      <HintPath>D:/Projects/SpriteTest/Assets/DOTween/DOTween43.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween46">
-      <HintPath>D:/Projects/SpriteTest/Assets/DOTween/DOTween46.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween50">
-      <HintPath>D:/Projects/SpriteTest/Assets/DOTween/DOTween50.dll</HintPath>
-    </Reference>
+     <Compile Include="Assets\Debug\DebugConsole.cs" />
+     <Compile Include="Assets\Scripts\CameraControl.cs" />
+     <Compile Include="Assets\Scripts\GameControllder.cs" />
+     <Compile Include="Assets\Scripts\GameRule.cs" />
+     <Compile Include="Assets\Scripts\GameStates.cs" />
+     <Compile Include="Assets\Scripts\GameUser.cs" />
+     <Compile Include="Assets\Scripts\LobbyPanel.cs" />
+     <Compile Include="Assets\Scripts\LoginPanel.cs" />
+     <Compile Include="Assets\Scripts\OrderedObject.cs" />
+     <Compile Include="Assets\Scripts\OrderedObjectEditor.cs" />
+     <Compile Include="Assets\Scripts\Projectile.cs" />
+     <Compile Include="Assets\Scripts\SmartFoxConnection.cs" />
+     <Compile Include="Assets\Scripts\SpriteAnimData.cs" />
+     <Compile Include="Assets\Scripts\SpriteSheetAnimator.cs" />
+     <Compile Include="Assets\Scripts\Tank.cs" />
+     <Compile Include="Assets\Scripts\Unit.cs" />
+     <None Include="Assets\DOTween\DOTween50.xml" />
+     <None Include="Assets\DOTween\readme.txt" />
+     <None Include="Assets\DOTween\DOTween46.xml" />
+     <None Include="Assets\DOTween\DOTween43.xml" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity5.3.4/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity5.3.4/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween">
+ <HintPath>D:/Projects/SpriteTestAnim/Assets/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>D:/Projects/SpriteTestAnim/Assets/DOTween/DOTween43.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween46">
+ <HintPath>D:/Projects/SpriteTestAnim/Assets/DOTween/DOTween46.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween50">
+ <HintPath>D:/Projects/SpriteTestAnim/Assets/DOTween/DOTween50.dll</HintPath>
+ </Reference>
+ <Reference Include="SmartFox2X">
+ <HintPath>D:/Projects/SpriteTestAnim/Assets/Plugins/SmartFox2X.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
@@ -87,4 +95,5 @@
   <Target Name="AfterBuild">
   </Target>
   -->
+  
 </Project>
